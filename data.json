@@ -1,0 +1,39 @@
+{
+  "divisi": [
+    {
+      "id": "1",
+      "nama": "DIVISI 1",
+      "ketua": "M.Zafrul",
+      "deskripsi": "Divisi 1 adalah sebuah divisi yang bergerak di bidang design grafis dan editing. divisi ini sangat mahir menggunakan software seperti photoshop, coreldraw,ibispaint,filmora dan masih banyaklagi.",
+      "logo": "logo1.jpg"
+    },
+    {
+      "id": "2",
+      "nama": "DIVISI 2",
+      "ketua": "Muhammad Syauqal",
+      "deskripsi": "Divisi 2 adalah sebuah divisi yang bergerak di bidang Pengembangan operating system dan juga hardware. di divisi ini akan ada program rakit pc dan juga program pengembangan os yaitu SIC-OS yang berbasis linux OS.",
+      "logo": "logo2.jpg"
+    },
+    {
+      "id": "3",
+      "nama": "DIVISI 3",
+      "ketua": "Dennis Satriani Sp",
+      "deskripsi": "Divisi 3 adalah sebuah divisi yang bergerak di bidang Pemogramman website dan juga robotic. divisi 3 berhasil melakukan lauching program yaitu website sic sendiri dan juga program robotic trash atau tempat sampah robotic. kami sangat mahir bermain dalam code...",
+      "logo": "logo3.jpg"
+    },
+    {
+      "id": "4",
+      "nama": "DIVISI 4",
+      "ketua": "Kresna",
+      "deskripsi": "Divisi 1 adalah sebuah divisi yang bergerak di bidang gaming dan internet, kalian bisa seru seruan bermain video game terkenal dan juga bisa bermain bersama serta belajar trick game tertentu.",
+      "logo": "logo4.jpg"
+    },
+    {
+      "id": "5",
+      "nama": "DIVISI 5",
+      "ketua": "M.Naufal",
+      "deskripsi": "Divisi 5 adalah sebuah divisi yang bergerak di bidang keamanan komputer. siapa yang cita citanay jadi peretas? wkwkwkw, nah divisi 4 ini kita akan belajar cara cara ngamanin data dan juga sedikit belajar tentang cyber security.",
+      "logo": "logo5.jpg"
+    }
+  ]
+}

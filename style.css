@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 60px;
+  background-color: #00cec9;
+  color: white;
+}
+.jumbotron h1 {
+  font-family: 'Gentium Book Plus', serif;
+}
+.jumbotron p {
+  color: #ffffff;
+  font-family: 'Kanit', sans-serif;
+}
+#about {
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 80px;
+}
+#gallery {
+  padding-top: 1rem;
+  background-color: #00cec9;
+  color: white;
+}
+#gallery {
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 80px;
+}
